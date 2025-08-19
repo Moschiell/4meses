@@ -61,7 +61,7 @@ header h1 {
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    border: 2px solid #e74c3c;
+    border: 2px solid #B069DB;
 }
 
 video {
@@ -74,12 +74,12 @@ video {
     height: 150px;
     border-radius: 10px;
     object-fit: cover;
-    border: 2px solid #e74c3c;
+    border: 2px solid #B069DB;
 }
 
 .contagem h2 {
     font-size: 2rem;
-    color: #e74c3c;
+    color: #B069DB;
 }
 
 .contagem p {
@@ -92,7 +92,7 @@ video {
     background-color: rgba(0, 5, 0, 0.4);
     padding: 20px;
     border-radius: 10px;
-    color: #e74c3c;
+    color: #B069DB;
 }
 
 #pergunta {
@@ -106,14 +106,14 @@ video {
     padding: 10px 20px;
     font-size: 1rem;
     cursor: pointer;
-    border: 2px solid #e74c3c;
+    border: 2px solid #B069DB;
     background-color: #fff;
     border-radius: 5px;
     transition: background-color 0.3s ease;
 }
 
 #respostas button:hover {
-    background-color: #e74c3c;
+    background-color: #B069DB;
     color: #fff;
 }
 
@@ -136,7 +136,7 @@ video {
     left: 50%;
     transform: translateX(-50%);
     font-size: 1.5rem;
-    color: #e74c3c;
+    color: #B069DB;
     font-weight: bold;
     animation: piscar 1s infinite 0.5s;
     display: flex;
@@ -150,7 +150,7 @@ video {
     height: 0;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
-    border-top: 15px solid #e74c3c;
+    border-top: 15px solid #B069DB;
     margin-top: 10px;
 }
 
@@ -185,7 +185,7 @@ video {
     transform: translateX(-50%);
     background-color: #000;
     padding: 20px;
-    border: 2px solid #e74c3c;
+    border: 2px solid #B069DB;
     border-radius: 10px;
     width: 90%;
     max-width: 600px;
@@ -209,7 +209,7 @@ video {
     height: 0;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
-    border-bottom: 10px solid #e74c3c;
+    border-bottom: 10px solid #B069DB;
 }
 
 .coracao-externo.open + .coracao-interno {
@@ -221,7 +221,7 @@ video {
     background-color: rgba(0, 5, 0, 0.4);
     padding: 20px;
     border-radius: 10px;
-    color: #e74c3c;
+    color: #B069DB;
 }
 
 .planos-container {
@@ -251,7 +251,7 @@ video {
     background-color: rgba(0, 5, 0, 0.4);
     padding: 20px;
     border-radius: 10px;
-    color: #e74c3c;
+    color: #B069DB;
 }
 
 .agradecimento p {
@@ -264,16 +264,16 @@ video {
     padding: 10px 20px;
     font-size: 1rem;
     cursor: pointer;
-    border: 2px solid #e74c3c;
+    border: 2px solid #B069DB;
     background-color: #fff;
     border-radius: 5px;
     transition: background-color 0.3s ease;
-    color: #e74c3c;
+    color: #B069DB;
     font-weight: bold;
 }
 
 #botao-surpresa:hover {
-    background-color: #e74c3c;
+    background-color: #B069DB;
     color: #fff;
 }
 
